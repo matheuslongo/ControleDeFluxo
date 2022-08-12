@@ -5,7 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
-
+/*
+@Author MATHEUS MACEDO LONGO
+ */
 @SpringBootApplication
 public class SelecaoCandidatosApplication {
 
